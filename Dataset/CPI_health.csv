@@ -1,0 +1,42 @@
+Data Series,2024 ,2023 ,2022 ,2021 ,2020 ,2019 ,2018 ,2017 ,2016 ,2015 ,2014 ,2013 ,2012 ,2011 ,2010 ,2009 ,2008 ,2007 ,2006 ,2005 ,2004 ,2003 ,2002 ,2001 ,2000 ,1999 ,1998 ,1997 ,1996 ,1995 ,1994 ,1993 
+All Items,100,97.34,93.342,88.863,87.377,87.43,87.17,86.975,87.074,88.004,88.977,87.619,85.302,80.801,77.193,75.362,73.796,68.441,67.11,65.919,65.074,63.636,62.955,63.09,62.29,61.295,61.016,60.29,59.182,58.238,57.208,55.875
+  Health,100,96.082,96.175,95.226,94.35,96.496,95.217,92.945,90.021,90.696,93.71,91.007,87.578,83.508,81.631,79.891,78.314,74.577,71.69,71.292,70.994,66.843,65.462,63.382,61.637,60.941,60.675,57.891,55.728,54.463,53.753,52.12
+    Medicines & Health Products,100,97.899,95.609,94.177,94.007,94.542,94.9,94.665,94.748,94.87,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+    Outpatient Care Services,100,95.996,95.91,95.44,96.365,102.318,101.42,99.804,97.846,95.37,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+    Inpatient Care Services,100,94.574,97.277,96.134,94.085,93.286,91.17,87.511,82.853,86.18,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+    Other Health Services,100,97.104,89.814,87.85,87.051,86.149,83.431,81.441,78.946,74.291,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+    Health Insurance,100,98.049,96.332,95.142,90.375,90.413,90.362,89.969,88.512,88.06,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+All Items Less Accommodation,100,97.416,93.604,88.88,87.459,87.592,86.802,85.119,83.517,83.339,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+All Items Less Imputed Rentals For Housing,100,97.472,93.721,89.21,87.807,88.023,87.272,85.717,84.198,84.033,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Definitions and Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"The weighting pattern for the Consumer Price Index (CPI) by household income group was derived from the expenditure values obtained from the Household Expenditure Survey (HES) 2023, and updated to 2024 values by taking into account price changes between 2023 and 2024. Household income group is based on ranking of resident households by their monthly household income from all sources (including Imputed Rentals for Housing) per household member.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+All Items Less Accommodation (Index):,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Accommodation, one of the groups in the Housing & Utilities expenditure division of the CPI, comprises 'Actual Rentals for Housing', 'Imputed Rentals for Housing', as well as 'Housing Maintenance & Repairs'.  A significant share of the Accommodation group is 'Imputed Rentals for Housing', which reflects the costs to homeowners of utilising the flow of services provided by their homes over an extended period of time.  Given that the cost of using housing services is not directly observed for homeowners, it is computed based on the imputed rental concept under the rental equivalence method, i.e., proxied by market rentals of similar properties.  This provides an estimated rental value for the owned home, as though the homeowner were renting it from themselves.  Housing price is not considered in the CPI as it has a high investment component and is treated as a capital good.  As for the CPI for 'Housing Maintenance & Repairs', it takes into account the rebates for Service & Conservancy Charges (S&CC) disbursed to households living in Housing and Development Board (HDB) flats in the applicable months.  Imputed Rentals have no impact on the cash expenditure of most households in Singapore as they already own their homes, while the inclusion of S&CC rebates results in some volatility in the monthly CPI.   As such, the CPIs for 'All Items less Accommodation' and 'All Items less Imputed Rentals for Housing' are compiled and published as additional indicators.   For the CPI for 'All Items less Imputed Rentals for Housing', actual rentals paid on rented units are still included in the measure.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+All Items Less Imputed Rentals For Housing (Index):,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Accommodation, one of the groups in the Housing & Utilities expenditure division of the CPI, comprises 'Actual Rentals for Housing', 'Imputed Rentals for Housing', as well as 'Housing Maintenance & Repairs'.  A significant share of the Accommodation group is 'Imputed Rentals for Housing', which reflects the costs to homeowners of utilising the flow of services provided by their homes over an extended period of time.  Given that the cost of using housing services is not directly observed for homeowners, it is computed based on the imputed rental concept under the rental equivalence method, i.e., proxied by market rentals of similar properties.  This provides an estimated rental value for the owned home, as though the homeowner were renting it from themselves.  Housing price is not considered in the CPI as it has a high investment component and is treated as a capital good.  As for the CPI for 'Housing Maintenance & Repairs', it takes into account the rebates for Service & Conservancy Charges (S&CC) disbursed to households living in Housing and Development Board (HDB) flats in the applicable months.  Imputed Rentals have no impact on the cash expenditure of most households in Singapore as they already own their homes, while the inclusion of S&CC rebates results in some volatility in the monthly CPI.   As such, the CPIs for 'All Items less Accommodation' and 'All Items less Imputed Rentals for Housing' are compiled and published as additional indicators.   For the CPI for 'All Items less Imputed Rentals for Housing', actual rentals paid on rented units are still included in the measure.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024 As Base Year:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+The base year is the period with which all the other periods are compared. The base year for the current Consumer Price Index (CPI) is 2024 and the index for 2024 is set equal to 100 points.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+All Items:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Highest level of the Consumer Price Index (CPI), containing all the divisions, groups and classes.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Consumer Price Index:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Consumer Price Index (CPI) is designed to measure the average price changes of a fixed basket of consumption goods and services commonly purchased by resident households over time. It is widely used as a measure of consumer price inflation.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Household Income Group:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Household income group categorises resident households by their monthly household income from all sources (including Imputed Rentals for Housing) per household member. A household refers to (i) a group of two or more persons living together in the same house and sharing common food or other essential arrangements for living; or (ii) a person living alone or a person living with others but having his own food or other essential arrangements for living. Although persons may be living in the same house, they may not be members of the same household.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Price Index:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A composite measure of the prices of items expressed relative to a defined base period.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notation:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+na   not available or not applicable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+nec  not elsewhere classified,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+nes  not elsewhere specified,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ -     nil or negligible or not significant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Numbers may not add up to the totals due to rounding.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Data are the latest available at the time of access or download. Some statistics, particularly those for the most recent time periods, are provisional and may be subject to revision at a later date.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Values are shown in Singapore dollars (unless otherwise specified).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Generated by: SingStat Table Builder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Date generated: 02/02/2026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Contact: info@singstat.gov.sg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
